@@ -7,7 +7,7 @@ Des Moines requested data for a business proposal.This project is a visualizatio
 ---
 
 
-### Converting 
+### Converting values in the "tripduration
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Conversion%20and%20save.png)
 
 ### Checkout time
@@ -40,4 +40,5 @@ Des Moines requested data for a business proposal.This project is a visualizatio
 
 * Dataset: 201908-citibike-tripdata.csv.zip 
 * Software: Python 
+            Jupyter Notebook
             Tableau Public 
