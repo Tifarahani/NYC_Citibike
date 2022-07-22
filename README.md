@@ -1,17 +1,11 @@
 # NYC_Citibike
 
 #### Project Overview
+
+Des Moines requested data for a business proposal.This project is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business.Other data points include usage durations, peak usage times, and the key target mark considering Gender, weekday deploying Interactive Interface - Tableau Public.
+
 ---
 
-This project is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business.
-
-### Deployed Interactive Interface - Tableau Public
----
-#### Resources
-
-* Dataset: 201908-citibike-tripdata.csv.zip 
-* Software: Python 
-            Tableau Public 
 
 ### Converting 
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Conversion%20and%20save.png)
@@ -42,3 +36,9 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 
 [link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/tina3462/viz/CheckoutTimeByGender_16585275567650/CheckouttimebyGender?publish=yes))
+
+#### Resources
+
+* Dataset: 201908-citibike-tripdata.csv.zip 
+* Software: Python 
+            Tableau Public 
