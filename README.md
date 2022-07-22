@@ -40,6 +40,6 @@ Des Moines requested data for a business proposal.This project is a visualizatio
 
 * Dataset: 201908-citibike-tripdata.csv.zip 
 * Software: 
-      -Python 
-      -Jupyter Notebook
-      -Tableau Public 
+      * Python 
+      * Jupyter Notebook
+      * Tableau Public 
