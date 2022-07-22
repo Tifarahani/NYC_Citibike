@@ -54,3 +54,6 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 - Having multiple dataset to see if the service is popular during the winter.
 - Aggregation data on promotions to encourage customer for longer trips.
+
+
+[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/tina3462/viz/CheckoutTimeByGender_16585275567650/CheckouttimebyGender?publish=yes))
