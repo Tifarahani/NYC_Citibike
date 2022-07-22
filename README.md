@@ -40,6 +40,8 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 ### Activity duration
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Bike%20trips%20per%20weekday.png)
 
+
+![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender%20by%20weekday1.png)
 ## Summary
 
 - The visualisation confirm the popularity of this service in in New York during the month of August 2019.
