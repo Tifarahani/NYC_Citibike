@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-Des Moines requested data for a business proposal.This project is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business.Other data points include usage durations, peak usage times, and the key target mark considering Gender, weekday deploying Interactive Interface - Tableau Public.
+Des Moines requested data for a business proposal.This project is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business.Other data points include usage durations, peak usage times, and the key target mark considering Gender, weekday by deploying Interactive Interface - Tableau Public.
 
 ---
 
