@@ -9,11 +9,9 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 ---
 #### Resources
 
-* Dataset: 201908-citibike-tripdata.csv.zip (https://s3.amazonaws.com/tripdata/index.html)
+* Dataset: 201908-citibike-tripdata.csv.zip 
 * Software: Python 
             Tableau Public 
-
-## Results
 
 ### Converting 
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Conversion%20and%20save.png)
@@ -28,26 +26,21 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 - Highest activity hours are from 6AM to 8AM and 5:00 PM to 7:00 PM and require the most resources mobilized to manage bikes and client customer.
 - During the weekend, the activity seems slower, but steady.
-
-
 - No matter the day or the gender, a bike trip is almost always below 30 minutes and do not go over 45 minutes often.
 
-### LCheckout itme by gender
+### Checkout Time by Gender
 
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender.png)
 
 - Most ride start locations are in the touristic or business areas on the island of NYC.
-### Activity duration
+### Checkout by Gender and Weekday
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Bike%20trips%20per%20weekday.png)
-
-
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender%20by%20weekday1.png)
+
 ## Summary
 
 - The visualisation confirm the popularity of this service in in New York during the month of August 2019.
-
 - The majority of the trips were in Manhattan Island (by male users during morning and evening rush hours).
-
 - We can see this service as a cheaper alternative to the Metro or other public transportation and a way to practive sport.
 
 ### Further analysis:
