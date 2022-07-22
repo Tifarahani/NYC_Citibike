@@ -18,7 +18,6 @@ Des Moines requested data for a business proposal.This project is a visualizatio
 
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender.png)
 
-- Most ride start locations are in the touristic or business areas on the island of NYC.
 ### Checkout by Gender and Weekday
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Bike%20trips%20per%20weekday.png)
 ![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender%20by%20weekday1.png)
