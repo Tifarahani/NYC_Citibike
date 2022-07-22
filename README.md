@@ -15,32 +15,30 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ## Results
 
-### Activity during the month
-
-![preview](src/img/trip_time.png)
+### Converting 
+![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Conversion%20and%20save.png)
 
 - There were over 2.3 million rides for the month of August 2019.
 - During the week users are subscribers and during the weekend customer like to use the bike sharing service.
 - There is a wide range of the age of the users. Male tend to use the serivce more often than women and the aveerage trip is below 30 minutes.
 
-### Activity during the day
+### Checkout time
 
-![preview](src/img/week_activity.png)
+![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time.png)
 
 - Highest activity hours are from 6AM to 8AM and 5:00 PM to 7:00 PM and require the most resources mobilized to manage bikes and client customer.
 - During the weekend, the activity seems slower, but steady.
 
-### Activity duration
-
-![preview](src/img/trip_time.png)
 
 - No matter the day or the gender, a bike trip is almost always below 30 minutes and do not go over 45 minutes often.
 
-### Location matter
+### LCheckout itme by gender
 
-![preview](src/img/trip_area.png)
+![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Checkout%20time%20by%20Gender.png)
 
 - Most ride start locations are in the touristic or business areas on the island of NYC.
+### Activity duration
+![preview](https://github.com/Tifarahani/NYC_Citibike/blob/main/Img/Bike%20trips%20per%20weekday.png)
 
 ## Summary
 
